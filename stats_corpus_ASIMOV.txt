@@ -1,0 +1,275 @@
+Nom du fichier d'entrée : Seconde_Fondation_sample.txt
+Nombre de phrases : 3177
+Nombre de mots : 38936
+Nombre de caractères : 229884
+
+Nom du fichier d'entrée : Fondation_et_empire_sample.txt
+Nombre de phrases : 3782
+Nombre de mots : 39365
+Nombre de caractères : 223793
+
+Nom du fichier d'entrée : Fondation_sample.txt
+Nombre de phrases : 3337
+Nombre de mots : 36470
+Nombre de caractères : 206912
+
+Nom du fichier d'entrée : Terre_et_Fondation_sample.txt
+Nombre de phrases : 6489
+Nombre de mots : 79799
+Nombre de caractères : 461563
+
+Nom du fichier d'entrée : Fondation_foudroyée_sample.txt
+Nombre de phrases : 6266
+Nombre de mots : 78468
+Nombre de caractères : 452131
+
+Nom du fichier d'entrée : Seconde_Fondation_sample.txt
+Nombre de phrases : 3177
+Nombre de mots : 38936
+Nombre de caractères : 229884
+
+Nom du fichier d'entrée : Fondation_et_empire_sample.txt
+Nombre de phrases : 3782
+Nombre de mots : 39365
+Nombre de caractères : 223793
+
+Nom du fichier d'entrée : Fondation_sample.txt
+Nombre de phrases : 3337
+Nombre de mots : 36470
+Nombre de caractères : 206912
+
+Nom du fichier d'entrée : Terre_et_Fondation_sample.txt
+Nombre de phrases : 6489
+Nombre de mots : 79799
+Nombre de caractères : 461563
+
+Nom du fichier d'entrée : Fondation_foudroyée_sample.txt
+Nombre de phrases : 6266
+Nombre de mots : 78468
+Nombre de caractères : 452131
+
+Nom du fichier d'entrée : Fondation_et_empire_sample.txt
+Nombre de phrases : 3782
+Nombre de mots : 39365
+Nombre de caractères : 223793
+
+Nom du fichier d'entrée : Fondation_foudroyée_sample.txt
+Nombre de phrases : 6266
+Nombre de mots : 78468
+Nombre de caractères : 452131
+
+Nom du fichier d'entrée : Fondation_sample.txt
+Nombre de phrases : 3337
+Nombre de mots : 36470
+Nombre de caractères : 206912
+
+Nom du fichier d'entrée : Seconde_Fondation_sample.txt
+Nombre de phrases : 3177
+Nombre de mots : 38936
+Nombre de caractères : 229884
+
+Nom du fichier d'entrée : Terre_et_Fondation_sample.txt
+Nombre de phrases : 6489
+Nombre de mots : 79799
+Nombre de caractères : 461563
+
+Nom du fichier d'entrée : Fondation_et_empire_sample.txt
+Nombre de phrases : 3782
+Nombre de mots : 39365
+Nombre de caractères : 223793
+
+Nom du fichier d'entrée : Fondation_foudroyée_sample.txt
+Nombre de phrases : 6266
+Nombre de mots : 78468
+Nombre de caractères : 452131
+
+Nom du fichier d'entrée : Fondation_sample.txt
+Nombre de phrases : 3337
+Nombre de mots : 36470
+Nombre de caractères : 206912
+
+Nom du fichier d'entrée : Seconde_Fondation_sample.txt
+Nombre de phrases : 3177
+Nombre de mots : 38936
+Nombre de caractères : 229884
+
+Nom du fichier d'entrée : Terre_et_Fondation_sample.txt
+Nombre de phrases : 6489
+Nombre de mots : 79799
+Nombre de caractères : 461563
+
+Nom du fichier d'entrée : Fondation_et_empire_sample.txt
+Nombre de phrases : 3782
+Nombre de mots : 39365
+Nombre de caractères : 223793
+
+Nom du fichier d'entrée : Fondation_foudroyée_sample.txt
+Nombre de phrases : 6266
+Nombre de mots : 78468
+Nombre de caractères : 452131
+
+Nom du fichier d'entrée : Fondation_sample.txt
+Nombre de phrases : 3337
+Nombre de mots : 36470
+Nombre de caractères : 206912
+
+Nom du fichier d'entrée : Seconde_Fondation_sample.txt
+Nombre de phrases : 3177
+Nombre de mots : 38936
+Nombre de caractères : 229884
+
+Nom du fichier d'entrée : Terre_et_Fondation_sample.txt
+Nombre de phrases : 6489
+Nombre de mots : 79799
+Nombre de caractères : 461563
+
+Nom du fichier d'entrée : Fondation_et_empire_sample.txt
+Nombre de phrases : 3782
+Nombre de mots : 39365
+Nombre de caractères : 223793
+
+Nom du fichier d'entrée : Fondation_foudroyée_sample.txt
+Nombre de phrases : 6266
+Nombre de mots : 78468
+Nombre de caractères : 452131
+
+Nom du fichier d'entrée : Fondation_sample.txt
+Nombre de phrases : 3337
+Nombre de mots : 36470
+Nombre de caractères : 206912
+
+Nom du fichier d'entrée : Seconde_Fondation_sample.txt
+Nombre de phrases : 3177
+Nombre de mots : 38936
+Nombre de caractères : 229884
+
+Nom du fichier d'entrée : Terre_et_Fondation_sample.txt
+Nombre de phrases : 6489
+Nombre de mots : 79799
+Nombre de caractères : 461563
+
+Nom du fichier d'entrée : Fondation_et_empire_sample.txt
+Nombre de phrases : 3782
+Nombre de mots : 39365
+Nombre de caractères : 223793
+
+Nom du fichier d'entrée : Fondation_foudroyée_sample.txt
+Nombre de phrases : 6266
+Nombre de mots : 78468
+Nombre de caractères : 452131
+
+Nom du fichier d'entrée : Fondation_sample.txt
+Nombre de phrases : 3337
+Nombre de mots : 36470
+Nombre de caractères : 206912
+
+Nom du fichier d'entrée : Seconde_Fondation_sample.txt
+Nombre de phrases : 3177
+Nombre de mots : 38936
+Nombre de caractères : 229884
+
+Nom du fichier d'entrée : Terre_et_Fondation_sample.txt
+Nombre de phrases : 6489
+Nombre de mots : 79799
+Nombre de caractères : 461563
+
+Nom du fichier d'entrée : Fondation_et_empire_sample.txt
+Nombre de phrases : 3782
+Nombre de mots : 39365
+Nombre de caractères : 223793
+
+Nom du fichier d'entrée : Fondation_foudroyée_sample.txt
+Nombre de phrases : 6266
+Nombre de mots : 78468
+Nombre de caractères : 452131
+
+Nom du fichier d'entrée : Fondation_sample.txt
+Nombre de phrases : 3337
+Nombre de mots : 36470
+Nombre de caractères : 206912
+
+Nom du fichier d'entrée : Seconde_Fondation_sample.txt
+Nombre de phrases : 3177
+Nombre de mots : 38936
+Nombre de caractères : 229884
+
+Nom du fichier d'entrée : Terre_et_Fondation_sample.txt
+Nombre de phrases : 6489
+Nombre de mots : 79799
+Nombre de caractères : 461563
+
+Nom du fichier d'entrée : Fondation_et_empire_sample.txt
+Nombre de phrases : 3782
+Nombre de mots : 39946
+Nombre de caractères : 223685
+
+Nom du fichier d'entrée : Fondation_foudroyée_sample.txt
+Nombre de phrases : 6266
+Nombre de mots : 79474
+Nombre de caractères : 451461
+
+Nom du fichier d'entrée : Fondation_sample.txt
+Nombre de phrases : 3337
+Nombre de mots : 36995
+Nombre de caractères : 206802
+
+Nom du fichier d'entrée : Seconde_Fondation_sample.txt
+Nombre de phrases : 3177
+Nombre de mots : 39489
+Nombre de caractères : 229876
+
+Nom du fichier d'entrée : Terre_et_Fondation_sample.txt
+Nombre de phrases : 6489
+Nombre de mots : 80838
+Nombre de caractères : 461049
+
+Nom du fichier d'entrée : Fondation_et_empire_sample.txt
+Nombre de phrases : 3782
+Nombre de mots : 39946
+Nombre de caractères : 223685
+
+Nom du fichier d'entrée : Fondation_foudroyée_sample.txt
+Nombre de phrases : 6266
+Nombre de mots : 79474
+Nombre de caractères : 451461
+
+Nom du fichier d'entrée : Fondation_sample.txt
+Nombre de phrases : 3337
+Nombre de mots : 36995
+Nombre de caractères : 206802
+
+Nom du fichier d'entrée : Seconde_Fondation_sample.txt
+Nombre de phrases : 3177
+Nombre de mots : 39489
+Nombre de caractères : 229876
+
+Nom du fichier d'entrée : Terre_et_Fondation_sample.txt
+Nombre de phrases : 6489
+Nombre de mots : 80838
+Nombre de caractères : 461049
+
+Nom du fichier d'entrée : Fondation_et_empire_sample.txt
+Nombre de phrases : 3782
+Nombre de mots : 39946
+Nombre de caractères : 223685
+
+Nom du fichier d'entrée : Fondation_foudroyée_sample.txt
+Nombre de phrases : 6266
+Nombre de mots : 79474
+Nombre de caractères : 451461
+
+Nom du fichier d'entrée : Fondation_sample.txt
+Nombre de phrases : 3337
+Nombre de mots : 36995
+Nombre de caractères : 206802
+
+Nom du fichier d'entrée : Seconde_Fondation_sample.txt
+Nombre de phrases : 3177
+Nombre de mots : 39489
+Nombre de caractères : 229876
+
+Nom du fichier d'entrée : Terre_et_Fondation_sample.txt
+Nombre de phrases : 6489
+Nombre de mots : 80838
+Nombre de caractères : 461049
+
